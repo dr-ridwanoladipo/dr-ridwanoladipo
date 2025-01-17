@@ -1,5 +1,50 @@
-![Header](banner.png)
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+  <!-- Background -->
+  <rect width="1600" height="900" fill="#f8f9fa"/>
+  
+  <!-- Abstract wave pattern -->
+  <path d="M0 700 Q400 600 800 700 Q1200 800 1600 700 L1600 900 L0 900 Z" fill="#e3f2fd" opacity="0.6"/>
+  <path d="M0 750 Q400 650 800 750 Q1200 850 1600 750 L1600 900 L0 900 Z" fill="#b3e5fc" opacity="0.4"/>
+  
+  <!-- Neural Network Icon -->
+  <g transform="translate(200,450)">
+    <!-- Nodes -->
+    <circle cx="0" cy="0" r="15" fill="#00acc1"/>
+    <circle cx="50" cy="-40" r="15" fill="#00acc1"/>
+    <circle cx="50" cy="40" r="15" fill="#00acc1"/>
+    <circle cx="100" cy="0" r="15" fill="#00acc1"/>
+    
+    <!-- Connections -->
+    <line x1="15" y1="0" x2="35" y2="-35" stroke="#00acc1" stroke-width="2"/>
+    <line x1="15" y1="0" x2="35" y2="35" stroke="#00acc1" stroke-width="2"/>
+    <line x1="65" y1="-35" x2="85" y2="0" stroke="#00acc1" stroke-width="2"/>
+    <line x1="65" y1="35" x2="85" y2="0" stroke="#00acc1" stroke-width="2"/>
+  </g>
+  
+  <!-- Medical Icon (Stethoscope) -->
+  <g transform="translate(1300,450)">
+    <circle cx="0" cy="0" r="25" fill="none" stroke="#00838f" stroke-width="8"/>
+    <path d="M-20 0 Q-40 0 -40 20 L-40 60" fill="none" stroke="#00838f" stroke-width="8" stroke-linecap="round"/>
+    <path d="M20 0 Q40 0 40 20 L40 60" fill="none" stroke="#00838f" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  
+  <!-- DNA Helix -->
+  <g transform="translate(750,450)">
+    <path d="M-50 -40 Q0 -20 50 -40 Q100 -60 150 -40" fill="none" stroke="#0097a7" stroke-width="4"/>
+    <path d="M-50 40 Q0 20 50 40 Q100 60 150 40" fill="none" stroke="#0097a7" stroke-width="4"/>
+    <line x1="-30" y1="-35" x2="-30" y2="35" stroke="#0097a7" stroke-width="4"/>
+    <line x1="30" y1="-35" x2="30" y2="35" stroke="#0097a7" stroke-width="4"/>
+    <line x1="90" y1="-35" x2="90" y2="35" stroke="#0097a7" stroke-width="4"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="800" y="300" font-family="Arial, sans-serif" font-size="60" font-weight="bold" text-anchor="middle" fill="#006064">
+    Dr. Ridwan Oladipo
+  </text>
+  <text x="800" y="380" font-family="Arial, sans-serif" font-size="40" text-anchor="middle" fill="#00838f">
+    Medical AI Specialist
+  </text>
+</svg>
 
 
 # 👨‍⚕️ Dr. Ridwan Oladipo  
