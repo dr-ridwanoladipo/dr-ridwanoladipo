@@ -50,25 +50,25 @@ I'm a Medical Doctor turned Data Scientist with a strong foundation in Python an
 ## 🚀 **Featured Projects**
 
 ### **Python Projects**
-- **[WeatherPro](https://github.com/dr-ridwanoladipo/WeatherPro)** &nbsp;||&nbsp; [Live Demo](https://weatherpro-by-drridwan.streamlit.app)
+- **[WeatherPro](https://github.com/dr-ridwanoladipo/WeatherPro)** &nbsp;|&nbsp; [Live Demo](https://weatherpro-by-drridwan.streamlit.app)
 <br>Advanced weather forecast application using Streamlit, showcasing real-time weather data visualization and API integration.
 
-- **[SecurePassVault](https://github.com/dr-ridwanoladipo/SecurePassVault)** &nbsp;||&nbsp; [Live Demo](https://securevaults-by-drridwan.streamlit.app)
+- **[SecurePassVault](https://github.com/dr-ridwanoladipo/SecurePassVault)** &nbsp;|&nbsp; [Live Demo](https://securevaults-by-drridwan.streamlit.app)
 <br>Robust password management application implementing advanced cryptographic techniques.
 
 ---
 
 ### **Machine Learning & AI**
-- **[Film Oracle](https://github.com/dr-ridwanoladipo/film-oracle)** &nbsp;||&nbsp; [Live Demo](https://film-oracle-by-drridwan.streamlit.app)
+- **[Film Oracle](https://github.com/dr-ridwanoladipo/film-oracle)** &nbsp;|&nbsp; [Live Demo](https://film-oracle-by-drridwan.streamlit.app)
 <br>Sophisticated movie recommendation system leveraging collaborative filtering and content-based algorithms.
 
-- **[NLP BookMiner](https://github.com/dr-ridwanoladipo/NLP-BookMiner)** &nbsp;||&nbsp; [Live Demo](https://nlp-bookminer-by-drridwan.streamlit.app)
+- **[NLP BookMiner](https://github.com/dr-ridwanoladipo/NLP-BookMiner)** &nbsp;|&nbsp; [Live Demo](https://nlp-bookminer-by-drridwan.streamlit.app)
 <br>Cutting-edge NLP tool for in-depth text analysis using techniques like sentiment analysis, named entity recognition, and summarization.
 
 ---
 
 ### **Data Analysis**
-- **[EduTrack QT Suite](https://github.com/dr-ridwanoladipo/edutrack-qt-suite)** &nbsp;||&nbsp; [Live Demo](https://edutrack-qt-by-drridwan.streamlit.app)
+- **[EduTrack QT Suite](https://github.com/dr-ridwanoladipo/edutrack-qt-suite)** &nbsp;|&nbsp; [Live Demo](https://edutrack-qt-by-drridwan.streamlit.app)
 <br>A comprehensive education management system with dynamic reporting capabilities.
 
 ---
@@ -121,6 +121,6 @@ Below is a comprehensive list of my other projects on GitHub. Each repository co
 - **[Ecoventure](https://github.com/dr-ridwanoladipo/Ecoventure)** &nbsp;|&nbsp; [Live Demo](https://ecoventure-by-drridwan.netlify.app)
 <br>Modern, responsive website for an eco-tourism company showcasing advanced CSS techniques.
 
-- **[Estateology](https://github.com/dr-ridwanoladipo/Estateology)** &nbsp;|&nbsp; [Live Demo](https://estateology-by-drridwan.netlify.app)  
-  <br>Sleek real estate website demonstrating proficiency in responsive design and modern CSS frameworks.
+- **[Estateology](https://github.com/dr-ridwanoladipo/Estateology)** &nbsp;|&nbsp; [Live Demo](https://estateology-by-drridwan.netlify.app)
+<br>Sleek real estate website demonstrating proficiency in responsive design and modern CSS frameworks.
 
