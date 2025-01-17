@@ -1,21 +1,21 @@
-# Dr. Ridwan Oladipo
-### <span style="color:#0A84FF">Medical Doctor | Data Scientist | ML/AI Specialist</span>
 
-I'm a Medical Doctor turned Data Scientist, combining clinical expertise with advanced AI capabilities to deliver innovative solutions across healthcare and technology domains. With a portfolio of 10+ deployed projects spanning medical analytics to generative AI, I transform complex data challenges into actionable insights and scalable solutions.
+# 👨‍⚕️ Dr. Ridwan Oladipo  
+### Medical Doctor | Data Scientist | ML/AI Specialist  
 
----
-
-### <font color="#0A84FF">🔬 Technical Excellence</font>
-- **ML/AI Mastery**: Delivered 10+ deployed ML pipelines using XGBoost, random forests, NLP, and deep learning (PyTorch)
-- **Data Engineering**: Advanced Python (NumPy, Pandas, scikit-learn), comprehensive SQL expertise (window functions, optimization, and common table expressions) with 2 production-grade database projects
-- **Data Science Portfolio**: Completed 4 end-to-end analytics projects using NumPy, Pandas, Matplotlib, and Seaborn
-- **Web Technologies**: Experienced in API development and web scraping (BeautifulSoup, Selenium, SelectorLib)
-- **Development & Deployment**: Proficient in Streamlit, Flask, Django, Docker, MLflow, and Git/GitHub
+I'm a Medical Doctor turned Data Scientist with a strong foundation in Python and data science, combining clinical expertise with advanced AI capabilities to deliver innovative solutions. Passionate about using technology to create impactful solutions, I have successfully deployed 10+ projects spanning medical analytics, machine learning, and generative AI.
 
 ---
 
-## <span style="color:#0A84FF">🔧 Technologies & Tools</span>
+## 🔬 **Technical Excellence**
+- **ML/AI Mastery**: Delivered 10+ deployed ML pipelines using XGBoost, Random Forests, NLP, and Deep Learning (PyTorch).  
+- **Data Engineering**: Advanced Python (NumPy, Pandas, scikit-learn) and comprehensive SQL expertise (window functions, optimization, and common table expressions).  
+- **Data Science Portfolio**: Completed 4 end-to-end analytics projects using NumPy, Pandas, Matplotlib, and Seaborn.  
+- **Web Technologies**: Experienced in API development and web scraping (BeautifulSoup, Selenium, SelectorLib).  
+- **Development & Deployment**: Proficient in Streamlit, Flask, Django, Docker, MLflow, and Git/GitHub.  
 
+---
+
+## 🔧 **Technologies & Tools**
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -45,47 +45,82 @@ I'm a Medical Doctor turned Data Scientist, combining clinical expertise with ad
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 
-### **Other Skills**
-![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-4285F4?logo=web&logoColor=white)
-![API Development](https://img.shields.io/badge/-API%20Development-FF5733?logo=api&logoColor=white)
-![Data Engineering](https://img.shields.io/badge/-Data%20Engineering-FF914D?logo=data&logoColor=white)
+---
+
+## 🚀 **Featured Projects**
+
+### **Python Projects**
+- **[WeatherPro](https://github.com/dr-ridwanoladipo/WeatherPro)** &nbsp;||&nbsp; [Live Demo](https://weatherpro-by-drridwan.streamlit.app)
+<br>Advanced weather forecast application using Streamlit, showcasing real-time weather data visualization and API integration.
+
+- **[SecurePassVault](https://github.com/dr-ridwanoladipo/SecurePassVault)** &nbsp;||&nbsp; [Live Demo](https://securevaults-by-drridwan.streamlit.app)
+<br>Robust password management application implementing advanced cryptographic techniques.
 
 ---
 
-### <font color="#0A84FF">👥 Leadership & Communication</font>
-- **Cross-functional Leadership**: Led multidisciplinary teams bridging medical professionals and data scientists
-- **Stakeholder Management**: Experienced in translating complex technical concepts for C-suite executives and clinical teams
-- **Project Leadership**: Spearheaded 4 end-to-end ML projects from conception to deployment
-- **Technical Communication**: Advanced documentation skills and experience presenting to both technical and non-technical audiences
+### **Machine Learning & AI**
+- **[Film Oracle](https://github.com/dr-ridwanoladipo/film-oracle)** &nbsp;||&nbsp; [Live Demo](https://film-oracle-by-drridwan.streamlit.app)
+<br>Sophisticated movie recommendation system leveraging collaborative filtering and content-based algorithms.
 
-### <font color="#0A84FF">🚀 Featured Impact Projects</font>
-- **Secure Pass Vault**: Enterprise-grade password management system using Python/Flask
-- **Film Oracle**: Recommendation engine leveraging collaborative filtering
-- **EduTrack Suite**: Real-time educational analytics platform
-- **NLP Book Miner**: Advanced text analysis application with natural language processing
-
-### <font color="#0A84FF">💡 Unique Value Proposition</font>
-- Rare combination of medical domain knowledge and technical expertise
-- Proven track record in building and deploying production-ready ML solutions
-- Strong foundation in healthcare analytics and medical data interpretation
-- Advanced understanding of both clinical workflows and ML model lifecycle management
-- Expertise in translating complex healthcare problems into scalable AI solutions
-- Successful track record of leading cross-functional teams
-
-### <font color="#0A84FF">🔮 Current Focus</font>
-- Developing cutting-edge generative AI applications for healthcare
-- Building scalable ML pipelines for medical data analysis
-- Creating innovative solutions that bridge clinical expertise with AI capabilities
-
-### <font color="#0A84FF">🎯 What I Bring to Your Team</font>
-- Innovative problem-solving through medical domain expertise
-- End-to-end project delivery from conception to deployment
-- Strong collaboration skills with technical and non-technical stakeholders
-- Commitment to developing high-impact, production-ready solutions
+- **[NLP BookMiner](https://github.com/dr-ridwanoladipo/NLP-BookMiner)** &nbsp;||&nbsp; [Live Demo](https://nlp-bookminer-by-drridwan.streamlit.app)
+<br>Cutting-edge NLP tool for in-depth text analysis using techniques like sentiment analysis, named entity recognition, and summarization.
 
 ---
 
-### <font color="#0A84FF">📫 Let's Create Impact Together</font>
-Open to challenging roles in medical AI, data science, and machine learning, with a focus on innovative projects and high-impact solutions.
+### **Data Analysis**
+- **[EduTrack QT Suite](https://github.com/dr-ridwanoladipo/edutrack-qt-suite)** &nbsp;||&nbsp; [Live Demo](https://edutrack-qt-by-drridwan.streamlit.app)
+<br>A comprehensive education management system with dynamic reporting capabilities.
 
-[Portfolio] | [LinkedIn] | [Email]
+---
+
+## 🔗 [View All Projects](#all-projects)  
+
+---
+
+## 👥 **Leadership & Communication**
+- **Cross-functional Leadership**: Led multidisciplinary teams bridging medical professionals and data scientists.  
+- **Stakeholder Management**: Skilled in translating complex technical concepts for C-suite executives and clinical teams.  
+- **Project Leadership**: Spearheaded 4 end-to-end ML projects from conception to deployment.  
+- **Technical Communication**: Advanced documentation skills and experience presenting to both technical and non-technical audiences.  
+
+---
+
+## 💡 **Unique Value Proposition**
+- Rare combination of medical domain knowledge and technical expertise.  
+- Proven track record in building and deploying production-ready ML solutions.  
+- Strong foundation in healthcare analytics and medical data interpretation.  
+- Expertise in translating complex healthcare problems into scalable AI solutions.  
+
+---
+
+## 🔮 **Current Focus**
+- Developing cutting-edge generative AI applications for healthcare.  
+- Building scalable ML pipelines for medical data analysis.  
+
+---
+
+## 📫 **Let’s Connect**
+I’m open to challenging roles in medical AI, data science, and machine learning. Let’s create impactful solutions together!
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?style=flat-square&logo=web)](https://your-portfolio-link.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:your-email@example.com)
+
+---
+
+## <a name="all-projects"></a> 📂 **All Projects**
+Below is a comprehensive list of my other projects on GitHub. Each repository contains detailed documentation and a README explaining the project goals and outcomes.
+
+### **Python Projects**
+- [web-scraper-gig-alert](https://github.com/dr-ridwanoladipo/web-scraper-gig-alert)  
+- [django-dynamic-jobportal](https://github.com/dr-ridwanoladipo/django-dynamic-jobportal)  
+- [flask-weather-dashboard](https://github.com/dr-ridwanoladipo/flask-weather-dashboard)  
+- [python-oop-hotel-system](https://github.com/dr-ridwanoladipo/python-oop-hotel-system)  
+
+### **Web Design Projects**
+- **[Ecoventure](https://github.com/dr-ridwanoladipo/Ecoventure)** &nbsp;||&nbsp; [Live Demo](https://ecoventure-by-drridwan.netlify.app)  
+  <br>Modern, responsive website for an eco-tourism company showcasing advanced CSS techniques.
+
+- **[Estateology](https://github.com/dr-ridwanoladipo/Estateology)** &nbsp;||&nbsp; [Live Demo](https://estateology-by-drridwan.netlify.app)  
+  <br>Sleek real estate website demonstrating proficiency in responsive design and modern CSS frameworks.
+
