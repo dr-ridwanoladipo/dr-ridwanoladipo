@@ -124,3 +124,8 @@ Below is a comprehensive list of my other projects on GitHub. Each repository co
 - **[Estateology](https://github.com/dr-ridwanoladipo/Estateology)** &nbsp;|&nbsp; [Live Demo](https://estateology-by-drridwan.netlify.app)
 <br>Sleek real estate website demonstrating proficiency in responsive design and modern CSS frameworks.
 
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=dr-ridwanoladipo&color=blue)
+
+---
