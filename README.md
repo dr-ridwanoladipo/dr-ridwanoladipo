@@ -102,9 +102,9 @@ I'm a Medical Doctor turned Data Scientist with a strong foundation in Python an
 ## 📫 **Let’s Connect**
 I’m open to challenging roles in medical AI, data science, and machine learning. Let’s create impactful solutions together!
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?style=flat-square&logo=web)](https://your-portfolio-link.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?style=flat-square&logo=web)](https://your-portfolio-link.com)
+&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+&nbsp;&nbsp;&nbsp;[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:your-email@example.com)
 
 ---
 
@@ -118,9 +118,9 @@ Below is a comprehensive list of my other projects on GitHub. Each repository co
 - [python-oop-hotel-system](https://github.com/dr-ridwanoladipo/python-oop-hotel-system)  
 
 ### **Web Design Projects**
-- **[Ecoventure](https://github.com/dr-ridwanoladipo/Ecoventure)** &nbsp;||&nbsp; [Live Demo](https://ecoventure-by-drridwan.netlify.app)  
-  <br>Modern, responsive website for an eco-tourism company showcasing advanced CSS techniques.
+- **[Ecoventure](https://github.com/dr-ridwanoladipo/Ecoventure)** &nbsp;|&nbsp; [Live Demo](https://ecoventure-by-drridwan.netlify.app)
+<br>Modern, responsive website for an eco-tourism company showcasing advanced CSS techniques.
 
-- **[Estateology](https://github.com/dr-ridwanoladipo/Estateology)** &nbsp;||&nbsp; [Live Demo](https://estateology-by-drridwan.netlify.app)  
+- **[Estateology](https://github.com/dr-ridwanoladipo/Estateology)** &nbsp;|&nbsp; [Live Demo](https://estateology-by-drridwan.netlify.app)  
   <br>Sleek real estate website demonstrating proficiency in responsive design and modern CSS frameworks.
 
