@@ -1,3 +1,6 @@
+![Header](banner.png)
+
+
 
 # 👨‍⚕️ Dr. Ridwan Oladipo  
 ### Medical Doctor | Data Scientist | ML/AI Specialist  
