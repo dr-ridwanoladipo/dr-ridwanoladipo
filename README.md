@@ -1,7 +1,6 @@
 ![Header](ai-banner.png)
-
-# 👨‍⚕️ Dr. Ridwan Oladipo  
-### Medical Doctor | Data Scientist | ML/AI Specialist  
+️
+### 👨‍⚕ Medical Doctor | Data Scientist | ML/AI Specialist  
 
 I'm a Medical Doctor turned Data Scientist with a strong foundation in Python and data science, combining clinical expertise with advanced AI capabilities to deliver innovative solutions. Passionate about using technology to create impactful solutions, I have successfully deployed 10+ projects spanning medical analytics, machine learning, and generative AI.
 
