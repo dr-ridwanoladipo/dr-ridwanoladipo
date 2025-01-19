@@ -1,5 +1,10 @@
-![Header](ai-banner.png)
-️
+![Header](ai-banner.png)  
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=web)](https://portfolio-by-drridwan.streamlit.app)
+&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=linkedin)](https://linkedin.com/in/drridwanoladipoai)
+&nbsp;&nbsp;&nbsp;[![Github](https://img.shields.io/badge/-Github-brightgreen?style=flat-square&logo=github)](https://github.com/dr-ridwanoladipo)
+&nbsp;&nbsp;&nbsp;[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:dr.ridwan.oladipo@gmail.com)
+
 ### 👨‍⚕ Medical Doctor | Data Scientist | ML/AI Specialist  
 
 I'm a Medical Doctor turned Data Scientist with a strong foundation in Python and data science, combining clinical expertise with advanced AI capabilities to deliver innovative solutions. Passionate about using technology to create impactful solutions, I have successfully deployed 10+ projects spanning medical analytics, machine learning, and generative AI.
@@ -100,11 +105,9 @@ I'm a Medical Doctor turned Data Scientist with a strong foundation in Python an
 ---
 
 ## 📫 **Let’s Connect**
-I’m open to challenging roles in medical AI, data science, and machine learning. Let’s create impactful solutions together!
+I’m open to challenging roles in **AI**, **data science**, **machine learning**, and all forms of **data analysis**—spanning **medical analytics**, **business intelligence**, and beyond. Let’s collaborate to create innovative, data-driven solutions and unlock opportunities for growth and success.
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?style=flat-square&logo=web)](https://your-portfolio-link.com)
-&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-&nbsp;&nbsp;&nbsp;[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:your-email@example.com)
+---
 
 ---
 
