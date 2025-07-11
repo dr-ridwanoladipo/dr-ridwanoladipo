@@ -1,4 +1,4 @@
-![Header](ai-banner.png)  
+![Header](github.png)  
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=web)](https://portfolio-by-drridwan.streamlit.app)
 &nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=linkedin)](https://linkedin.com/in/drridwanoladipoai)
