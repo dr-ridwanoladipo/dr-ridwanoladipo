@@ -120,8 +120,8 @@ Plotly • Medical Data Visualization • User Experience Design
 | System              |Accuracy               |Impact                        |Deployment |
 |-----------------------|-----------------------|--------------------------------|-------------|
 | 🩺 **Heart Disease AI** | ✅ 97% Sensitivity     | 🔬 Reduces missed CAD cases    | 🚀 Live     |
-| 🫀 **ECG Rhythm AI**   | ✅ 94% Arrhythmia Detect | ⚕️ Real-time cardiac screening | 🚀 Live     |
-| 📝 **Transcription AI** | ✅ 89% Multi-label F1  | 📋 Automates clinical workflow | 🚀 Live     |
+| 🫀 **ECG Rhythm AI**   | ✅ 94% Arrhythmia Detect | ⚕️ Real-time cardiac screening | ⏳ Coming Soon     |
+| 📝 **Transcription AI** | ✅ 89% Multi-label F1  | 📋 Automates clinical workflow | ⏳ Coming Soon     |
 
 </div>
 
