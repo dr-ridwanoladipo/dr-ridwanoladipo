@@ -1,10 +1,11 @@
-
-# 🩺 Dr. Ridwan Oladipo, MD | Medical AI Specialist
+![Header](github.png)
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mednexai.com-1e3c72?style=for-the-badge)](https://mednexai.com)
+&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/drridwanoladipoai)
+&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact-d14836?style=for-the-badge&logo=gmail)](mailto:dr.ridwan.oladipo@gmail.com)
 
 **Bridging Clinical Excellence with Advanced AI**
