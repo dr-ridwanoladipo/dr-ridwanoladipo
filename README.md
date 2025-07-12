@@ -117,13 +117,14 @@ Plotly • Medical Data Visualization • User Experience Design
 
 <div align="center">
 
-| Medical AI System | Accuracy | Clinical Impact | Deployment |
-|-------------------|----------|-----------------|------------|
-| **Heart Disease AI** | 97% Sensitivity | Reduces missed CAD diagnoses | ✅ Production |
-| **ECG Rhythm AI** | 94% Arrhythmia Detection | Real-time cardiac monitoring | ✅ Production |
-| **Transcription AI** | 89% Multi-label F1 | Automates clinical documentation | ✅ Production |
+| System              |Accuracy               |Impact                        |Deployment |
+|-----------------------|-----------------------|--------------------------------|-------------|
+| 🩺 **Heart Disease AI** | ✅ 97% Sensitivity     | 🔬 Reduces missed CAD cases    | 🚀 Live     |
+| 🫀 **ECG Rhythm AI**   | ✅ 94% Arrhythmia Detect | ⚕️ Real-time cardiac screening | 🚀 Live     |
+| 📝 **Transcription AI** | ✅ 89% Multi-label F1  | 📋 Automates clinical workflow | 🚀 Live     |
 
 </div>
+
 
 ---
 
@@ -180,8 +181,8 @@ Education management system with dynamic reporting and analytics capabilities.
 
 ### **🎯 Unique Competitive Advantage**
 - **Medical Domain Expertise**: Medical Doctor with clinical training and deep healthcare systems knowledge
-- **Production ML Engineering**: End-to-end system development and deployment
-- **Healthcare AI Specialization**: HIPAA-compliant, clinically-validated solutions
+- **Production ML Engineering**: End-to-end development from data wrangling to AWS ECS deployment
+- **Healthcare AI Specialization**: HIPAA-compliant, clinically validated solutions, with decisions grounded in patient safety and guidelines
 - **Cross-functional Leadership**: Bridge between medical teams and engineering
 
 ### **🚀 Target Opportunities**
