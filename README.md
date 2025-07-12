@@ -28,7 +28,8 @@ I'm a **Medical Doctor turned AI Specialist** with a unique mission: developing 
 
 ### 🩺 **Clinical Heart Disease AI** | `cardio.mednexai.com`
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-cardio.mednexai.com-ef4444?style=flat-square)](https://cardio.mednexai.com)
-[![GitHub](https://img.shields.io/badge/Code-Repository-181717?style=flat-square&logo=github)](https://github.com/dr-ridwanoladipo/cardio-ai-predictor)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/Code-Repository-00aa00?style=flat&logo=github)](https://github.com/dr-ridwanoladipo/cardio-ai-predictor)
 
 **Production cardiovascular risk assessment with 97% sensitivity**
 - 🧠 **XGBoost + SHAP explainability** for transparent clinical decisions
@@ -42,7 +43,8 @@ I'm a **Medical Doctor turned AI Specialist** with a unique mission: developing 
 
 ### 📈 **ECG Cardiac Rhythm AI** | `ecg.mednexai.com`
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-ecg.mednexai.com-10b981?style=flat-square)](https://ecg.mednexai.com)
-[![GitHub](https://img.shields.io/badge/Code-Repository-181717?style=flat-square&logo=github)](https://github.com/dr-ridwanoladipo/ecg-ai-classifier)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/Code-Repository-00aa00?style=flat&logo=github)](https://github.com/dr-ridwanoladipo/cardio-ai-predictor)
 
 **Deep learning arrhythmia detection with clinical-grade accuracy**
 - 🫀 **Multi-lead ECG analysis** with temporal pattern recognition
@@ -56,7 +58,8 @@ I'm a **Medical Doctor turned AI Specialist** with a unique mission: developing 
 
 ### 📝 **Medical Transcription AI** | `transcribe.mednexai.com`
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-transcribe.mednexai.com-f59e0b?style=flat-square)](https://transcribe.mednexai.com)
-[![GitHub](https://img.shields.io/badge/Code-Repository-181717?style=flat-square&logo=github)](https://github.com/dr-ridwanoladipo/medical-transcription-ai)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/Code-Repository-00aa00?style=flat&logo=github)](https://github.com/dr-ridwanoladipo/cardio-ai-predictor)
 
 **Multi-label clinical specialty classification with BioClinicalBERT**
 - 🏥 **Clinical specialty prediction** from raw medical transcriptions
