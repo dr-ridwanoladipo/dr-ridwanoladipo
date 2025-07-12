@@ -1,134 +1,228 @@
-![Header](github.png)  
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=web)](https://portfolio-by-drridwan.streamlit.app)
-&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=linkedin)](https://linkedin.com/in/drridwanoladipoai)
-&nbsp;&nbsp;&nbsp;[![Github](https://img.shields.io/badge/-Github-brightgreen?style=flat-square&logo=github)](https://github.com/dr-ridwanoladipo)
-&nbsp;&nbsp;&nbsp;[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:dr.ridwan.oladipo@gmail.com)
+# 🩺 Dr. Ridwan Oladipo, MD | Medical AI Specialist
 
-### 👨‍⚕ Medical Doctor | Data Scientist | ML/AI Specialist  
+<div align="center">
 
-I'm a Medical Doctor turned Data Scientist with a strong foundation in Python and data science, combining clinical expertise with advanced AI capabilities to deliver innovative solutions. Passionate about using technology to create impactful solutions, I have successfully deployed 10+ projects spanning medical analytics, machine learning, and generative AI.
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mednexai.com-1e3c72?style=for-the-badge)](https://mednexai.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/drridwanoladipoai)
+[![Email](https://img.shields.io/badge/Email-Contact-d14836?style=for-the-badge&logo=gmail)](mailto:dr.ridwan.oladipo@gmail.com)
 
----
+**Bridging Clinical Excellence with Advanced AI**
 
-## 🔬 **Technical Excellence**
-- **ML/AI Mastery**: Delivered 10+ deployed ML pipelines using XGBoost, Random Forests, NLP, and Deep Learning (PyTorch).  
-- **Data Engineering**: Advanced Python (NumPy, Pandas, scikit-learn) and comprehensive SQL expertise (window functions, optimization, and common table expressions).  
-- **Data Science Portfolio**: Completed 4 end-to-end analytics projects using NumPy, Pandas, Matplotlib, and Seaborn.  
-- **Web Technologies**: Experienced in API development and web scraping (BeautifulSoup, Selenium, SelectorLib).  
-- **Development & Deployment**: Proficient in Streamlit, Flask, Django, Docker, MLflow, and Git/GitHub.  
+*Medical Doctor + Data Scientist building production-ready healthcare AI systems*
+
+</div>
 
 ---
 
-## 🔧 **Technologies & Tools**
-### **Programming Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sqlite&logoColor=white)
+## 🎯 **Mission Statement**
 
-### **Machine Learning & AI**
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=black)
-![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-4285F4?logo=google&logoColor=white)
+I'm a **Medical Doctor turned AI Specialist** with a unique mission: developing **production-grade medical AI systems** that save lives and enhance clinical decision-making. My work combines deep medical domain expertise with advanced machine learning engineering to create **clinically-validated, explainable AI solutions** for real-world healthcare challenges.
 
-### **Data Analysis & Visualization**
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-00BFFF?logo=seaborn&logoColor=white)
-
-### **Web Development**
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-
-### **Tools & Platforms**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+> **Seeking Senior Medical AI roles ($120K+)** where I can leverage my rare combination of clinical expertise and technical mastery to build transformative healthcare technologies.
 
 ---
 
-## 🚀 **Featured Projects**
+## 🏥 **Featured Medical AI Portfolio**
 
-### **Python Projects**
-- **[WeatherPro](https://github.com/dr-ridwanoladipo/WeatherPro)** &nbsp;|&nbsp; [Live Demo](https://weatherpro-by-drridwan.streamlit.app)
-<br>Advanced weather forecast application using Streamlit, showcasing real-time weather data visualization and API integration.
+### 🩺 **Clinical Heart Disease AI** | `cardio.mednexai.com`
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-cardio.mednexai.com-ef4444?style=flat-square)](https://cardio.mednexai.com)
+[![GitHub](https://img.shields.io/badge/Code-Repository-181717?style=flat-square&logo=github)](https://github.com/dr-ridwanoladipo/cardio-ai-predictor)
 
-- **[SecurePassVault](https://github.com/dr-ridwanoladipo/SecurePassVault)** &nbsp;|&nbsp; [Live Demo](https://securevaults-by-drridwan.streamlit.app)
-<br>Robust password management application implementing advanced cryptographic techniques.
+**Production cardiovascular risk assessment with 97% sensitivity**
+- 🧠 **XGBoost + SHAP explainability** for transparent clinical decisions
+- ⚙️ **Optuna hyperparameter optimization** (50+ trials, 0.91 ROC-AUC)
+- 🚀 **AWS ECS Fargate deployment** with zero-downtime rolling updates
+- 📊 **Real-time risk stratification** with clinical decision support
 
----
-
-### **Machine Learning & AI**
-- **[Film Oracle](https://github.com/dr-ridwanoladipo/film-oracle)** &nbsp;|&nbsp; [Live Demo](https://film-oracle-by-drridwan.streamlit.app)
-<br>Sophisticated movie recommendation system leveraging collaborative filtering and content-based algorithms.
-
-- **[NLP BookMiner](https://github.com/dr-ridwanoladipo/NLP-BookMiner)** &nbsp;|&nbsp; [Live Demo](https://nlp-bookminer-by-drridwan.streamlit.app)
-<br>Cutting-edge NLP tool for in-depth text analysis using techniques like sentiment analysis, named entity recognition, and summarization.
+**Tech Stack**: `XGBoost` `SHAP` `FastAPI` `Streamlit` `AWS` `Docker` `Optuna`
 
 ---
 
-### **Data Analysis**
-- **[EduTrack QT Suite](https://github.com/dr-ridwanoladipo/edutrack-qt-suite)** &nbsp;|&nbsp; [Live Demo](https://edutrack-qt-by-drridwan.streamlit.app)
-<br>A comprehensive education management system with dynamic reporting capabilities.
+### 📈 **ECG Cardiac Rhythm AI** | `ecg.mednexai.com`
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-ecg.mednexai.com-10b981?style=flat-square)](https://ecg.mednexai.com)
+[![GitHub](https://img.shields.io/badge/Code-Repository-181717?style=flat-square&logo=github)](https://github.com/dr-ridwanoladipo/ecg-ai-classifier)
+
+**Deep learning arrhythmia detection with clinical-grade accuracy**
+- 🫀 **Multi-lead ECG analysis** with temporal pattern recognition
+- 🔬 **CNN + LSTM architecture** for time-series cardiac signal processing
+- 💡 **GradCAM visualizations** highlighting critical rhythm abnormalities
+- ⚕️ **MONAI framework integration** for medical imaging workflows
+
+**Tech Stack**: `PyTorch` `MONAI` `CNN+LSTM` `GradCAM` `FastAPI` `Medical Imaging`
 
 ---
 
-## 🔗 [View All Projects](#all-projects)  
+### 📝 **Medical Transcription AI** | `transcribe.mednexai.com`
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-transcribe.mednexai.com-f59e0b?style=flat-square)](https://transcribe.mednexai.com)
+[![GitHub](https://img.shields.io/badge/Code-Repository-181717?style=flat-square&logo=github)](https://github.com/dr-ridwanoladipo/medical-transcription-ai)
+
+**Multi-label clinical specialty classification with BioClinicalBERT**
+- 🏥 **Clinical specialty prediction** from raw medical transcriptions
+- 🤖 **Fine-tuned BioClinicalBERT** with domain-specific medical language
+- ⚡ **ONNX optimization** for sub-100ms inference times
+- 📋 **Multi-label classification** supporting overlapping specialties
+
+**Tech Stack**: `BioClinicalBERT` `Transformers` `ONNX` `Multi-label Classification` `Medical NLP`
 
 ---
 
-## 👥 **Leadership & Communication**
-- **Cross-functional Leadership**: Led multidisciplinary teams bridging medical professionals and data scientists.  
-- **Stakeholder Management**: Skilled in translating complex technical concepts for C-suite executives and clinical teams.  
-- **Project Leadership**: Spearheaded 4 end-to-end ML projects from conception to deployment.  
-- **Technical Communication**: Advanced documentation skills and experience presenting to both technical and non-technical audiences.  
+## 🧬 **Technical Expertise**
+
+### **🤖 Medical AI & Machine Learning**
+```python
+# Core ML Frameworks
+XGBoost • RandomForest • Deep Learning (PyTorch/TensorFlow)
+SHAP Explainability • Optuna Optimization • Medical Image Processing
+
+# Specialized Medical AI
+BioClinicalBERT • MONAI • Medical NLP • Time-series Analysis
+Clinical Decision Support • Population Health Analytics
+```
+
+### **⚗️ Data Science & Engineering**
+```python
+# Data Science Stack  
+Python • NumPy • Pandas • Scikit-learn • Matplotlib • Seaborn
+Advanced SQL • Statistical Analysis • Clinical Data Processing
+
+# ML Engineering
+MLOps • Model Deployment • Feature Engineering • A/B Testing
+Data Pipelines • Model Monitoring • Clinical Validation
+```
+
+### **🏗️ Production & Deployment**
+```python
+# Backend & APIs
+FastAPI • RESTful Services • Microservices • Authentication
+Medical Data Validation • HIPAA-Compliant Design
+
+# Cloud & DevOps  
+AWS (ECS Fargate, ECR, ALB, Route 53) • Docker • CI/CD
+Infrastructure as Code • Zero-downtime Deployments
+```
+
+### **🎨 Frontend & Visualization**
+```python
+# Medical UI Development
+Streamlit • Interactive Dashboards • Clinical Workflows
+Plotly • Medical Data Visualization • User Experience Design
+```
 
 ---
 
-## 💡 **Unique Value Proposition**
-- Rare combination of medical domain knowledge and technical expertise.  
-- Proven track record in building and deploying production-ready ML solutions.  
-- Strong foundation in healthcare analytics and medical data interpretation.  
-- Expertise in translating complex healthcare problems into scalable AI solutions.  
+## 📊 **Impact Metrics**
+
+<div align="center">
+
+| Medical AI System | Accuracy | Clinical Impact | Deployment |
+|-------------------|----------|-----------------|------------|
+| **Heart Disease AI** | 97% Sensitivity | Reduces missed CAD diagnoses | ✅ Production |
+| **ECG Rhythm AI** | 94% Arrhythmia Detection | Real-time cardiac monitoring | ✅ Production |
+| **Transcription AI** | 89% Multi-label F1 | Automates clinical documentation | ✅ Production |
+
+</div>
 
 ---
 
-## 🔮 **Current Focus**
-- Developing cutting-edge generative AI applications for healthcare.  
-- Building scalable ML pipelines for medical data analysis.  
+## 🏆 **Professional Development Timeline**
+
+```mermaid
+timeline
+    title Medical AI Journey
+    
+    2023 : Medical Practice
+         : Clinical Experience
+         : Patient Care Focus
+    
+    2024 : Data Science Transition  
+         : Python & ML Mastery
+         : Healthcare Analytics
+    
+    2025 : Medical AI Specialist
+         : Production ML Systems
+         : Advanced MLOps
+         : Seeking Senior Roles ($120K+)
+```
 
 ---
 
-## 📫 **Let’s Connect**
-I’m open to challenging roles in **AI**, **data science**, **machine learning**, and all forms of **data analysis**—spanning **medical analytics**, **business intelligence**, and beyond. Let’s collaborate to create innovative, data-driven solutions and unlock opportunities for growth and success.
+## 🔬 **Additional Projects**
+
+<details>
+<summary><strong>📚 Learning & Development Projects</strong></summary>
+
+### **🎬 Film Oracle** | [Live Demo](https://film-oracle-by-drridwan.streamlit.app)
+Advanced recommendation system showcasing collaborative filtering and content-based algorithms.
+
+### **📖 NLP BookMiner** | [Live Demo](https://nlp-bookminer-by-drridwan.streamlit.app)  
+Natural language processing toolkit with sentiment analysis and named entity recognition.
+
+### **🌦️ WeatherPro** | [Live Demo](https://weatherpro-by-drridwan.streamlit.app)
+Real-time weather application demonstrating API integration and data visualization.
+
+### **🔐 SecurePassVault** | [Live Demo](https://securevaults-by-drridwan.streamlit.app)
+Cryptographically secure password management with advanced encryption techniques.
+
+### **📊 EduTrack QT Suite** | [Live Demo](https://edutrack-qt-by-drridwan.streamlit.app)
+Education management system with dynamic reporting and analytics capabilities.
+
+**View all repositories**: [Complete Project List](https://github.com/dr-ridwanoladipo?tab=repositories)
+
+</details>
 
 ---
 
----
+## 💼 **Professional Value Proposition**
 
-## <a name="all-projects"></a> 📂 **All Projects**
-Below is a comprehensive list of my other projects on GitHub. Each repository contains detailed documentation and a README explaining the project goals and outcomes.
+### **🎯 Unique Competitive Advantage**
+- **Medical Domain Expertise**: Licensed physician with deep clinical knowledge
+- **Production ML Engineering**: End-to-end system development and deployment
+- **Healthcare AI Specialization**: HIPAA-compliant, clinically-validated solutions
+- **Cross-functional Leadership**: Bridge between medical teams and engineering
 
-### **Python Projects**
-- [web-scraper-gig-alert](https://github.com/dr-ridwanoladipo/web-scraper-gig-alert)  
-- [django-dynamic-jobportal](https://github.com/dr-ridwanoladipo/django-dynamic-jobportal)  
-- [flask-weather-dashboard](https://github.com/dr-ridwanoladipo/flask-weather-dashboard)  
-- [python-oop-hotel-system](https://github.com/dr-ridwanoladipo/python-oop-hotel-system)  
-
-### **Web Design Projects**
-- **[Ecoventure](https://github.com/dr-ridwanoladipo/Ecoventure)** &nbsp;|&nbsp; [Live Demo](https://ecoventure-by-drridwan.netlify.app)
-<br>Modern, responsive website for an eco-tourism company showcasing advanced CSS techniques.
-
-- **[Estateology](https://github.com/dr-ridwanoladipo/Estateology)** &nbsp;|&nbsp; [Live Demo](https://estateology-by-drridwan.netlify.app)
-<br>Sleek real estate website demonstrating proficiency in responsive design and modern CSS frameworks.
+### **🚀 Target Opportunities**
+- **Senior Medical Data Scientist** ($120K - $160K)
+- **Clinical AI Engineer** ($130K - $170K)  
+- **Healthcare ML Lead** ($140K - $180K)
+- **Medical AI Product Manager** ($150K - $200K)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=dr-ridwanoladipo&color=blue)
+## 📈 **GitHub Analytics**
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dr-ridwanoladipo&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/dr-ridwanoladipo)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dr-ridwanoladipo&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/dr-ridwanoladipo)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=dr-ridwanoladipo&color=blue&style=flat-square&label=Profile+Views)](https://github.com/dr-ridwanoladipo)
+
+</div>
 
 ---
+
+## 🤝 **Let's Build the Future of Healthcare AI**
+
+<div align="center">
+
+**Ready to revolutionize healthcare through AI?**
+
+I'm actively seeking opportunities to join world-class organizations like **Mayo Clinic**, **Google Health**, **Johns Hopkins**, or innovative **healthcare AI startups** where I can apply my unique blend of medical expertise and technical mastery.
+
+[![Schedule Meeting](https://img.shields.io/badge/📅_Schedule_Meeting-calendly.com/drridwan-1e3c72?style=for-the-badge)](https://calendly.com/drridwan)
+[![Download Resume](https://img.shields.io/badge/📄_Download_Resume-PDF-ef4444?style=for-the-badge)](https://mednexai.com/resume)
+
+</div>
+
+---
+
+<div align="center">
+
+**© 2025 Dr. Ridwan Oladipo, MD | Medical AI Specialist**  
+*Transforming healthcare through intelligent, compassionate AI solutions*
+
+[![Portfolio](https://img.shields.io/badge/🌐_mednexai.com-Visit_Portfolio-1e3c72?style=flat-square)](https://mednexai.com)
+
+</div>
