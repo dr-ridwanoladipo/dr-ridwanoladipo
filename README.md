@@ -20,7 +20,7 @@
 
 I'm a **Medical Doctor turned AI Specialist** with a unique mission: developing **production-grade medical AI systems** that save lives and enhance clinical decision-making. My work combines deep medical domain expertise with advanced machine learning engineering to create **clinically-validated, explainable AI solutions** for real-world healthcare challenges.
 
-> **Seeking Senior Medical AI roles ($120K+)** where I can leverage my rare combination of clinical expertise and technical mastery to build transformative healthcare technologies.
+> **Seeking Senior Medical AI roles** where I can leverage my rare combination of clinical expertise and technical mastery to build transformative healthcare technologies.
 
 ---
 
@@ -31,11 +31,11 @@ I'm a **Medical Doctor turned AI Specialist** with a unique mission: developing 
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/Code-Repository-00aa00?style=flat&logo=github)](https://github.com/dr-ridwanoladipo/cardio-ai-predictor)
 
-**Production cardiovascular risk assessment with 97% sensitivity**
-- 🧠 **XGBoost + SHAP explainability** for transparent clinical decisions
-- ⚙️ **Optuna hyperparameter optimization** (50+ trials, 0.91 ROC-AUC)
-- 🚀 **AWS ECS Fargate deployment** with zero-downtime rolling updates
-- 📊 **Real-time risk stratification** with clinical decision support
+**97% sensitivity in production cardiovascular risk assessment**
+- 🧠 **XGBoost + SHAP explainability** for transparent, trusted predictions
+- ⚙️ **Optuna optimization** (50+ trials, 0.91 ROC-AUC) for clinical-grade performance
+- 🚀 **Deployed on AWS ECS Fargate** with zero-downtime rolling updates
+- 📊 **Real-time risk stratification** + guideline-based decision support
 
 **Tech Stack**: `XGBoost` `SHAP` `FastAPI` `Streamlit` `AWS` `Docker` `Optuna`
 
@@ -76,19 +76,20 @@ I'm a **Medical Doctor turned AI Specialist** with a unique mission: developing 
 ### **🤖 Medical AI & Machine Learning**
 ```python
 # Core ML Frameworks
-XGBoost • RandomForest • Deep Learning (PyTorch/TensorFlow)
-SHAP Explainability • Optuna Optimization • Medical Image Processing
+XGBoost • RandomForest • LogisticRegression • Deep Learning (PyTorch/TensorFlow)
+SHAP • GradCAM Explainability • Optuna Optimization • Medical Image Processing
+NLP (BioClinicalBERT) • LLMs • RAG Pipelines • AI API Integrations (OpenAI, HuggingFace)
 
 # Specialized Medical AI
-BioClinicalBERT • MONAI • Medical NLP • Time-series Analysis
-Clinical Decision Support • Population Health Analytics
+MONAI • Medical NLP • Time-series Analysis • Clinical Decision Support
+Population Health Analytics • Medical Knowledge GraphsAnalytics
 ```
 
 ### **⚗️ Data Science & Engineering**
 ```python
 # Data Science Stack  
 Python • NumPy • Pandas • Scikit-learn • Matplotlib • Seaborn
-Advanced SQL • Statistical Analysis • Clinical Data Processing
+Advanced SQL • PostgreSQL • Statistical Analysis • Clinical Data Processing
 
 # ML Engineering
 MLOps • Model Deployment • Feature Engineering • A/B Testing
@@ -99,11 +100,12 @@ Data Pipelines • Model Monitoring • Clinical Validation
 ```python
 # Backend & APIs
 FastAPI • RESTful Services • Microservices • Authentication
-Medical Data Validation • HIPAA-Compliant Design
+Medical Data Validation • HIPAA-Compliant Design • API Testing
 
 # Cloud & DevOps  
-AWS (ECS Fargate, ECR, ALB, Route 53) • Docker • CI/CD
-Infrastructure as Code • Zero-downtime Deployments
+AWS (ECS Fargate, ECR, ALB, Route 53, EC2, Lambda) • Docker • CI/CD
+Auto-scaling (CPU/Memory/Custom Metrics) • EventBridge Scheduling
+Automated Deployments • Zero-downtime Deployments • Boto3 Automation
 ```
 
 ### **🎨 Frontend & Visualization**
@@ -133,20 +135,21 @@ Plotly • Medical Data Visualization • User Experience Design
 
 ```mermaid
 timeline
-    title Medical AI Journey
-    
-    2023 : Medical Practice
-         : Clinical Experience
-         : Patient Care Focus
-    
-    2024 : Data Science Transition  
-         : Python & ML Mastery
-         : Healthcare Analytics
-    
+    title Medical AI Transformation Journey
+
+    2023 : Completed Medical Education
+         : Solid Clinical Foundations
+         : Healthcare Systems Expertise
+
+    2024 : Strategic Pivot to AI
+         : Intensive ML, Python & SQL Mastery
+         : Specialized in Deep Learning & Medical NLP
+
     2025 : Medical AI Specialist
-         : Production ML Systems
-         : Advanced MLOps
-         : Seeking Senior Roles ($120K+)
+         : Production-Grade ML & LLM Systems
+         : FastAPI, Docker, AWS (ECS/Fargate)
+         : Advanced MLOps & AI APIs
+         : Exploring Senior Impact Roles
 ```
 
 ---
@@ -180,31 +183,16 @@ Education management system with dynamic reporting and analytics capabilities.
 ## 💼 **Professional Value Proposition**
 
 ### **🎯 Unique Competitive Advantage**
-- **Medical Domain Expertise**: Licensed physician with deep clinical knowledge
+- **Medical Domain Expertise**: Medical Doctor with clinical training and deep healthcare systems knowledge
 - **Production ML Engineering**: End-to-end system development and deployment
 - **Healthcare AI Specialization**: HIPAA-compliant, clinically-validated solutions
 - **Cross-functional Leadership**: Bridge between medical teams and engineering
 
 ### **🚀 Target Opportunities**
-- **Senior Medical Data Scientist** ($120K - $160K)
-- **Clinical AI Engineer** ($130K - $170K)  
-- **Healthcare ML Lead** ($140K - $180K)
-- **Medical AI Product Manager** ($150K - $200K)
-
----
-
-## 📈 **GitHub Analytics**
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dr-ridwanoladipo&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/dr-ridwanoladipo)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dr-ridwanoladipo&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/dr-ridwanoladipo)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=dr-ridwanoladipo&color=blue&style=flat-square&label=Profile+Views)](https://github.com/dr-ridwanoladipo)
-
-</div>
-
+- **Senior Medical Data Scientist**
+- **Clinical AI Engineer**  
+- **Healthcare ML Lead**
+- **Medical AI Product Manager**
 ---
 
 ## 🤝 **Let's Build the Future of Healthcare AI**
@@ -213,10 +201,7 @@ Education management system with dynamic reporting and analytics capabilities.
 
 **Ready to revolutionize healthcare through AI?**
 
-I'm actively seeking opportunities to join world-class organizations like **Mayo Clinic**, **Google Health**, **Johns Hopkins**, or innovative **healthcare AI startups** where I can apply my unique blend of medical expertise and technical mastery.
-
-[![Schedule Meeting](https://img.shields.io/badge/📅_Schedule_Meeting-calendly.com/drridwan-1e3c72?style=for-the-badge)](https://calendly.com/drridwan)
-[![Download Resume](https://img.shields.io/badge/📄_Download_Resume-PDF-ef4444?style=for-the-badge)](https://mednexai.com/resume)
+I'm actively seeking opportunities to join **world-class healthcare organizations** and **innovative medical AI companies** where I can apply my unique blend of medical expertise and technical mastery to build transformative, life-saving technologies.
 
 </div>
 
@@ -226,7 +211,5 @@ I'm actively seeking opportunities to join world-class organizations like **Mayo
 
 **© 2025 Dr. Ridwan Oladipo, MD | Medical AI Specialist**  
 *Transforming healthcare through intelligent, compassionate AI solutions*
-
-[![Portfolio](https://img.shields.io/badge/🌐_mednexai.com-Visit_Portfolio-1e3c72?style=flat-square)](https://mednexai.com)
 
 </div>
