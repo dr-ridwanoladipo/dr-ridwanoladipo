@@ -42,9 +42,7 @@ I'm a **Medical Doctor turned AI Specialist** with a unique mission: developing 
 ---
 
 ### 📈 **ECG Cardiac Rhythm AI** | `ecg.mednexai.com`
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-ecg.mednexai.com-10b981?style=flat-square)](https://ecg.mednexai.com)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/Code-Repository-00aa00?style=flat&logo=github)](https://github.com/dr-ridwanoladipo/cardio-ai-predictor)
+[![Coming Soon](https://img.shields.io/badge/🚧_Coming_Soon-Q3_2025-f59e0b?style=flat-square)](https://github.com/dr-ridwanoladipo)
 
 **Deep learning arrhythmia detection with clinical-grade accuracy**
 - 🫀 **Multi-lead ECG analysis** with temporal pattern recognition
@@ -57,9 +55,7 @@ I'm a **Medical Doctor turned AI Specialist** with a unique mission: developing 
 ---
 
 ### 📝 **Medical Transcription AI** | `transcribe.mednexai.com`
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-transcribe.mednexai.com-f59e0b?style=flat-square)](https://transcribe.mednexai.com)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/Code-Repository-00aa00?style=flat&logo=github)](https://github.com/dr-ridwanoladipo/cardio-ai-predictor)
+[![Coming Soon](https://img.shields.io/badge/🚧_Coming_Soon-Q3_2025-f59e0b?style=flat-square)](https://github.com/dr-ridwanoladipo)
 
 **Multi-label clinical specialty classification with BioClinicalBERT**
 - 🏥 **Clinical specialty prediction** from raw medical transcriptions
