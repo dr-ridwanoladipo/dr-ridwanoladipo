@@ -41,16 +41,16 @@ As a **Medical Doctor** with **rigorous clinical training** and **deep specializ
 
 ---
 
-### 📈 **ECG Cardiac Rhythm AI** | `ecg.mednexai.com`
+### 🫀 **ECG Cardiac AI** | `ecg.mednexai.com`  
 [![Coming Soon](https://img.shields.io/badge/🚧_Coming_Soon-Q3_2025-f59e0b?style=flat-square)](https://github.com/dr-ridwanoladipo)
 
-**Deep learning arrhythmia detection with clinical-grade accuracy**
-- 🫀 **Multi-lead ECG analysis** with temporal pattern recognition
-- 🔬 **CNN + LSTM architecture** for time-series cardiac signal processing
-- 💡 **GradCAM visualizations** highlighting critical rhythm abnormalities
-- ⚕️ **MONAI framework integration** for medical imaging workflows
+**Multimodal ResNet-1D ECG classifier with clinical-grade performance**  
+- 🧠 **ResNet-1D + tabular fusion** for 12-lead ECG & patient data  
+- 🎯 **96% MI sensitivity, 99.9% MI specificity**, AUC: 0.94, Kappa: 0.81  
+- 💡 **Explainability with GradCAM + SHAP** for diagnostic transparency  
+- ☁️ **AWS-ready architecture** with FastAPI, Streamlit, and Docker
 
-**Tech Stack**: `PyTorch` `MONAI` `CNN+LSTM` `GradCAM` `FastAPI` `Medical Imaging`
+**Tech Stack**: `PyTorch` `ResNet-1D` `Multimodal Fusion` `GradCAM` `SHAP` `FastAPI` `Streamlit` `Docker` `AWS ECS`
 
 ---
 
@@ -117,13 +117,14 @@ Plotly • Medical Data Visualization • User Experience Design
 
 <div align="center">
 
-| System              |Accuracy               |Impact                        |Deployment |
-|-----------------------|-----------------------|--------------------------------|-------------|
-| 🩺 **Heart Disease AI** | ✅ 97% Sensitivity     | 🔬 Reduces missed CAD cases    | 🚀 Live     |
-| 🫀 **ECG Rhythm AI**   | ✅ 94% Arrhythmia Detect | ⚕️ Real-time cardiac screening | ⏳ Coming Soon     |
-| 📝 **Transcription AI** | ✅ 89% Multi-label F1  | 📋 Automates clinical workflow | ⏳ Coming Soon     |
+| System               | Accuracy / Metric         | Impact                            | Deployment       |
+|----------------------|---------------------------|-----------------------------------|------------------|
+| 🩺 **Heart Disease AI** | ✅ 97% Sensitivity        | 🔬 Reduces missed CAD cases       | 🚀 Live           |
+| 🫀 **ECG Rhythm AI**    | ✅ 96% MI Sensitivity      | ⚕️ Clinical-grade cardiac diagnosis | ⏳ Q3 2025        |
+| 📝 **Transcription AI** | ✅ 89% Multi-label F1     | 📋 Automates specialty routing    | ⏳ Q3 2025    |
 
 </div>
+
 
 
 ---
