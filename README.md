@@ -183,10 +183,10 @@ Education management system with dynamic reporting and analytics capabilities.
 ## 💼 **Professional Value Proposition**
 
 ### **🎯 Unique Competitive Advantage**
-- **Medical Domain Expertise**: Medical Doctor with clinical training and deep healthcare systems knowledge
-- **Production ML Engineering**: End-to-end development from data wrangling to AWS ECS deployment
-- **Healthcare AI Specialization**: HIPAA-compliant, clinically validated solutions, with decisions grounded in patient safety and guidelines
-- **Cross-functional Leadership**: Bridge between medical teams and engineering
+- **Medical Domain Expertise:** MD with rigorous clinical training and deep understanding of healthcare systems.
+- **Production ML Engineering:** Architected end-to-end systems with robust deployment, monitoring, and scaling.
+- **Healthcare AI Specialization:** Built HIPAA-conscious, clinically-informed AI systems with robust explainability for real-world care.
+- **Cross-functional Leadership:** Bridge medical teams and engineering orgs to drive impactful solutions.
 
 ### **🚀 Target Opportunities**
 - **Senior Medical Data Scientist**
