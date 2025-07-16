@@ -18,7 +18,7 @@
 
 ## 🎯 **Mission Statement**
 
-I'm a **Medical Doctor turned AI Specialist** with a unique mission: developing **production-grade medical AI systems** that save lives and enhance clinical decision-making. My work combines deep medical domain expertise with advanced machine learning engineering to create **clinically-validated, explainable AI solutions** for real-world healthcare challenges.
+As a **Medical Doctor** with **rigorous clinical training** and **deep specialization in AI and machine learning**, I'm dedicated to building **production-grade medical AI systems** that transform **clinical decision-making**. My unique blend of **medical expertise** and **advanced technical skills** enables me to develop **clinically-informed, explainable AI solutions** that tackle **real-world healthcare challenges at scale**.
 
 > **Seeking Senior Medical AI roles** where I can leverage my rare combination of clinical expertise and technical mastery to build transformative healthcare technologies.
 
@@ -134,19 +134,22 @@ Plotly • Medical Data Visualization • User Experience Design
 timeline
     title Medical AI Transformation Journey
 
-    2023 : Completed Medical Education
-         : Solid Clinical Foundations
-         : Healthcare Systems Expertise
-
+    2017-2023 : Medical Education & Clinical Excellence
+              : M.B.Ch.B, Obafemi Awolowo University
+              : Built foundation in evidence-based medicine
+              : Patient care and healthcare systems expertise
+              
     2024 : Strategic Pivot to AI
-         : Intensive ML, Python & SQL Mastery
-         : Specialized in Deep Learning & Medical NLP
-
+         : Python (NumPy, Pandas, Scikit-learn, Matplotlib), Advanced SQL
+         : ML/DL frameworks (PyTorch & TensorFlow), statistical analysis, medical NLP
+         : Harvard CS50 + specialized certifications
+         
     2025 : Medical AI Specialist
-         : Production-Grade ML & LLM Systems
-         : FastAPI, Docker, AWS (ECS/Fargate)
-         : Advanced MLOps & AI APIs
-         : Exploring Senior Impact Roles
+         : Advanced MLOps with FastAPI, Docker
+         : AWS architecture (ECS/Fargate, ECR, ALB, Route 53, EC2, Lambda, Auto-scaling, EventBridge)
+         : CI/CD pipelines, Boto3 automation, LLMs, RAG pipelines, AI APIs
+         : Building enterprise-ready healthcare solutions
+         : Currently preparing for AWS Machine Learning Specialty Certification
 ```
 
 ---
