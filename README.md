@@ -140,17 +140,22 @@ timeline
               : Built foundation in evidence-based medicine
               : Patient care and healthcare systems expertise
               
-    2024 : Strategic Pivot to AI
-         : Python (NumPy, Pandas, Scikit-learn, Matplotlib), Advanced SQL
-         : ML/DL frameworks (PyTorch & TensorFlow), statistical analysis, medical NLP
-         : Harvard CS50 + specialized certifications
+    2019-2023 : Data Science Foundation & Consulting
+              : Python programming and statistical analysis consulting
+              : Delivered data solutions for 50+ academic and business clients
+              : Built expertise in NumPy, Pandas, Scikit-learn, statistical modeling
          
-    2025 : Medical AI Specialist
-         : Advanced MLOps with FastAPI, Docker
-         : AWS architecture (ECS/Fargate, ECR, ALB, Route 53, EC2, Lambda, Auto-scaling, EventBridge)
-         : CI/CD pipelines, Boto3 automation, LLMs, RAG pipelines, AI APIs
-         : Building enterprise-ready healthcare solutions
-         : Currently preparing for AWS Machine Learning Specialty Certification
+    2023-2024 : Strategic Pivot to Medical AI
+              : Advanced ML/DL frameworks (PyTorch & TensorFlow)
+              : Medical NLP and clinical data processing specialization
+              : Harvard CS50 + specialized AI certifications
+              
+    2024-2025 : Production Medical AI Specialist
+              : Advanced MLOps with FastAPI, Docker, AWS architecture
+              : Deployed live cardiovascular AI (97% sensitivity)
+              : CI/CD pipelines, Boto3 automation, LLMs, RAG pipelines
+              : Building enterprise-ready healthcare solutions
+              : Currently preparing for AWS Machine Learning Specialty Certification
 ```
 
 ---
