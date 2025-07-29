@@ -54,6 +54,20 @@ As a **Medical Doctor** with **rigorous clinical training** and **deep specializ
 
 ---
 
+### 🧠 **Complex MRI Brain Tumor Segmentation** | `brain-tumor-ai.mednexai.com` (On-demand)
+[![Coming Soon](https://img.shields.io/badge/🚧_Available_On_Demand-Contact_for_Demo-f59e0b?style=flat-square)](mailto:dr.ridwan.oladipo@gmail.com)
+
+**Multi-site 4D MRI analysis with nnUNet architecture achieving 84% whole tumor Dice**
+- 🧠 **~750 4D volumes** processed across heterogeneous clinical sites
+- 🎯 **84% whole tumor Dice score** exceeding clinical thresholds for surgical planning
+- ⚙️ **Multi-modal fusion** of FLAIR, T1w, T1Gd, T2w sequences
+- 🔬 **Self-supervised pre-training** with masked autoencoders for robust generalization
+- 📊 **BraTS-standard evaluation** with comprehensive clinical metrics
+
+**Tech Stack**: `PyTorch` `MONAI` `nnUNet` `3D Attention U-Net` `Self-Supervised Learning` `DICOM Processing`
+
+---
+
 ### 📝 **Medical Transcription AI** | `transcribe.mednexai.com`
 [![Coming Soon](https://img.shields.io/badge/🚧_Coming_Soon-Q3_2025-f59e0b?style=flat-square)](https://github.com/dr-ridwanoladipo)
 
@@ -77,7 +91,7 @@ SHAP • GradCAM Explainability • Optuna Optimization • Medical Image Proces
 NLP (BioClinicalBERT) • LLMs • RAG Pipelines • AI API Integrations (OpenAI, HuggingFace)
 
 # Specialized Medical AI
-MONAI • Medical NLP • Time-series Analysis • Clinical Decision Support
+MONAI  • nnUNet • Medical NLP • Time-series Analysis • Clinical Decision Support
 Population Health Analytics • Medical Knowledge GraphsAnalytics
 ```
 
