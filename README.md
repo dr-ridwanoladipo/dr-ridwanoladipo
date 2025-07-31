@@ -62,6 +62,7 @@ As a **Medical Doctor** with **rigorous clinical training** and **deep specializ
 - ⚙️ **Multi-modal fusion** of FLAIR, T1w, T1Gd, T2w sequences
 - 🔬 **Self-supervised pre-training** with masked autoencoders for robust generalization
 - 📊 **BraTS-standard evaluation** with comprehensive clinical metrics
+- 🏥 **Clinical significance**: Exceeds 80% clinical threshold for surgical planning systems
 
 **Tech Stack**: `PyTorch` `MONAI` `nnUNet` `3D Attention U-Net` `Self-Supervised Learning` `DICOM Processing`
 
