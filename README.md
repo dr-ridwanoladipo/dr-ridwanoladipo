@@ -18,10 +18,9 @@
 
 ## 🎯 **Mission Statement**
 
-As a **Medical Doctor** with **rigorous clinical training** and **deep specialization in AI and machine learning**, I'm dedicated to building **production-grade medical AI systems** that transform **clinical decision-making**. My unique blend of **medical expertise** and **advanced technical skills** enables me to develop **clinically-informed, explainable AI solutions** that tackle **real-world healthcare challenges at scale**.
+As a **Medical Doctor** with **rigorous clinical training** and **deep specialization in AI and machine learning**, I'm dedicated to building **production-grade medical AI systems** that transform **clinical decision-making**. My unique blend of **medical expertise** and **advanced technical skills** enables me to develop **clinically-informed, explainable AI solutions** that tackle **real-world healthcare challenges at scale**, with **proven success in deploying systems that exceed clinical thresholds for FDA-regulated environments**.
 
 > **Seeking Senior Medical AI roles** where I can leverage my rare combination of clinical expertise and technical mastery to build transformative healthcare technologies.
-
 ---
 
 ## 🏥 **Featured Medical AI Portfolio**
@@ -41,8 +40,8 @@ As a **Medical Doctor** with **rigorous clinical training** and **deep specializ
 
 ---
 
-### 🫀 **ECG Cardiac AI** | `ecg.mednexai.com`  
-[![Coming Soon](https://img.shields.io/badge/🚧_Coming_Soon-Q3_2025-f59e0b?style=flat-square)](https://github.com/dr-ridwanoladipo)
+### 🫀 **ECG Cardiac AI** | `ecg.mednexai.com`  (On-demand)
+[![Coming Soon](https://img.shields.io/badge/🚧_Available_On_Demand-Contact_for_Demo-f59e0b?style=flat-square)](mailto:dr.ridwan.oladipo@gmail.com)
 
 **Multimodal ResNet-1D ECG classifier with clinical-grade performance**  
 - 🧠 **ResNet-1D + tabular fusion** for 12-lead ECG & patient data  
@@ -68,8 +67,8 @@ As a **Medical Doctor** with **rigorous clinical training** and **deep specializ
 
 ---
 
-### 📝 **Medical Transcription AI** | `transcribe.mednexai.com`
-[![Coming Soon](https://img.shields.io/badge/🚧_Coming_Soon-Q3_2025-f59e0b?style=flat-square)](https://github.com/dr-ridwanoladipo)
+### 📝 **Medical Transcription AI** | `transcribe.mednexai.com` (On-demand)
+[![Coming Soon](https://img.shields.io/badge/🚧_Available_On_Demand-Contact_for_Demo-f59e0b?style=flat-square)](mailto:dr.ridwan.oladipo@gmail.com)
 
 **Multi-label clinical specialty classification with BioClinicalBERT**
 - 🏥 **Clinical specialty prediction** from raw medical transcriptions
@@ -134,11 +133,11 @@ Plotly • Medical Data Visualization • User Experience Design
 | System               | Accuracy / Metric         | Impact                            | Deployment       |
 |----------------------|---------------------------|-----------------------------------|------------------|
 | 🩺 **Heart Disease AI** | ✅ 97% Sensitivity        | 🔬 Reduces missed CAD cases       | 🚀 Live           |
-| 🫀 **ECG Rhythm AI**    | ✅ 96% MI Sensitivity      | ⚕️ Clinical-grade cardiac diagnosis | ⏳ Q3 2025        |
-| 📝 **Transcription AI** | ✅ 89% Multi-label F1     | 📋 Automates specialty routing    | ⏳ Q3 2025    |
+| 🫀 **ECG Rhythm AI**    | ✅ 96% MI Sensitivity      | ⚕️ Clinical-grade cardiac diagnosis | 🚀 On-demand    |
+| 🧠 **Brain Tumor AI**   | ✅ 84% Whole Tumor Dice   | 🏥 Enables surgical planning      | 🚀 On-demand     |
+| 📝 **Transcription AI** | ✅ 89% Multi-label F1     | 📋 Automates specialty routing    | 🚀 On-demand     |
 
 </div>
-
 
 
 ---
@@ -171,33 +170,6 @@ timeline
               : Building enterprise-ready healthcare solutions
               : Currently preparing for AWS Machine Learning Specialty Certification
 ```
-
----
-
-## 🔬 **Additional Projects**
-
-<details>
-<summary><strong>📚 Learning & Development Projects</strong></summary>
-
-### **🎬 Film Oracle** | [Live Demo](https://film-oracle-by-drridwan.streamlit.app)
-Advanced recommendation system showcasing collaborative filtering and content-based algorithms.
-
-### **📖 NLP BookMiner** | [Live Demo](https://nlp-bookminer-by-drridwan.streamlit.app)  
-Natural language processing toolkit with sentiment analysis and named entity recognition.
-
-### **🌦️ WeatherPro** | [Live Demo](https://weatherpro-by-drridwan.streamlit.app)
-Real-time weather application demonstrating API integration and data visualization.
-
-### **🔐 SecurePassVault** | [Live Demo](https://securevaults-by-drridwan.streamlit.app)
-Cryptographically secure password management with advanced encryption techniques.
-
-### **📊 EduTrack QT Suite** | [Live Demo](https://edutrack-qt-by-drridwan.streamlit.app)
-Education management system with dynamic reporting and analytics capabilities.
-
-**View all repositories**: [Complete Project List](https://github.com/dr-ridwanoladipo?tab=repositories)
-
-</details>
-
 ---
 
 ## 💼 **Professional Value Proposition**
