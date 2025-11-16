@@ -2,11 +2,11 @@
 
 # **Ridwan Oladipo, MD**
 
-### Medical Data Scientist • Clinical AI Architect • MLOps Engineer
+### <span style="color:#1e90ff;">Medical Data Scientist • Clinical AI Architect • MLOps Engineer</span>
 
 *Building end-to-end medical AI — **4 production deployments** (neurosurgery, cardiology, radiology, pharmacology) on **AWS** with **<200ms inference** and **full CI/CD automation***
 
-**Deep Learning • RAG • LLMs • MLOps • Explainable AI (SHAP/Grad-CAM)**
+<span style="color:#ffa500;"><b>Deep Learning • RAG • LLMs • MLOps • Explainable AI (SHAP/Grad-CAM)</b></span>
 
 **Stanford • Harvard • Duke • Oxford • Johns Hopkins**
 
@@ -19,4 +19,6 @@
 </div>
 
 ---
+
+
 
