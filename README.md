@@ -49,7 +49,7 @@ Each solution unifies **deep learning, RAG, and LLMs** with **SHAP/Grad-CAM expl
 [![🎬 UI Demo](https://img.shields.io/badge/🎬_UI_Demo-Live-blue?style=flat-square)](https://huggingface.co/spaces/dr-ridwanoladipo/cardio-ai)
 [![🔗 API Demo](https://img.shields.io/badge/🔗_API_Demo-Live-green?style=flat-square)](https://huggingface.co/spaces/dr-ridwanoladipo/cardio-ai-api)  
 [![🚀 Production (AWS ECS Fargate)](https://img.shields.io/badge/🚀_Production-cardio.mednexai.com-f59e0b?style=flat-square)](#-deployment-options)    
-[![GitHub](https://img.shields.io/badge/Code-Repository-00aa00?style=flat&logo=github&logoColor=white)](https://github.com/dr-ridwanoladipo/cardio-ai#readme)
+[![GitHub](https://img.shields.io/badge/Code-Repository-00aa00?style=flat&logo=github&logoColor=white)](https://github.com/dr-ridwanoladipo/cardio-ai)
 ---
 
 ### 🫀 **Clinical-Grade ECG Diagnosis AI**
@@ -60,7 +60,7 @@ Each solution unifies **deep learning, RAG, and LLMs** with **SHAP/Grad-CAM expl
 [![🎬 UI Demo](https://img.shields.io/badge/🎬_UI_Demo-Live-blue?style=flat-square)](https://huggingface.co/spaces/dr-ridwanoladipo/ecg-ai)
 [![🔗 API Demo](https://img.shields.io/badge/🔗_API_Demo-Live-green?style=flat-square)](https://huggingface.co/spaces/dr-ridwanoladipo/ecg-ai-api)  
 [![🚀 Production (AWS ECS Fargate)](https://img.shields.io/badge/🚀_Production-ecg.mednexai.com-f59e0b?style=flat-square)](#-deployment-options)  
-[![GitHub](https://img.shields.io/badge/Code-Repository-00aa00?style=flat&logo=github&logoColor=white)](https://github.com/dr-ridwanoladipo/ecg-ai#readme)
+[![GitHub](https://img.shields.io/badge/Code-Repository-00aa00?style=flat&logo=github&logoColor=white)](https://github.com/dr-ridwanoladipo/ecg-ai)
 
 ---
 
@@ -72,7 +72,7 @@ Each solution unifies **deep learning, RAG, and LLMs** with **SHAP/Grad-CAM expl
 [![🎬 UI Demo](https://img.shields.io/badge/🎬_UI_Demo-Live-blue?style=flat-square)](https://huggingface.co/spaces/dr-ridwanoladipo/brain-tumor-ai)
 [![🔗 API Demo](https://img.shields.io/badge/🔗_API_Demo-Live-green?style=flat-square)](https://huggingface.co/spaces/dr-ridwanoladipo/brain-tumor-api)  
 [![🚀 Production Ready (AWS ECS Fargate)](https://img.shields.io/badge/🚀_Production-brain.mednexai.com-f59e0b?style=flat-square)](#-deployment-options)  
-[![GitHub](https://img.shields.io/badge/Code-Repository-00aa00?style=flat&logo=github&logoColor=white)](https://github.com/dr-ridwanoladipo/brain-tumor-ai#readme)
+[![GitHub](https://img.shields.io/badge/Code-Repository-00aa00?style=flat&logo=github&logoColor=white)](https://github.com/dr-ridwanoladipo/brain-tumor-ai)
 
 ---
 
@@ -84,7 +84,7 @@ Each solution unifies **deep learning, RAG, and LLMs** with **SHAP/Grad-CAM expl
 [![🎬 UI Demo](https://img.shields.io/badge/🎬_UI_Demo-Live-blue?style=flat-square)](https://huggingface.co/spaces/dr-ridwanoladipo/drug-interaction-ai) 
 [![🔗 API Demo](https://img.shields.io/badge/🔗_API_Demo-Live-green?style=flat-square)](https://huggingface.co/spaces/dr-ridwanoladipo/drug-interaction-api)  
 [![🚀 Production (AWS Fargate)](https://img.shields.io/badge/🚀_Production-drug.mednexai.com-f59e0b?style=flat-square)](#-deployment-options)  
-[![GitHub](https://img.shields.io/badge/Code-Repository-00aa00?style=flat&logo=github&logoColor=white)](https://github.com/dr-ridwanoladipo/drug-interaction-ai#readme)
+[![GitHub](https://img.shields.io/badge/Code-Repository-00aa00?style=flat&logo=github&logoColor=white)](https://github.com/dr-ridwanoladipo/drug-interaction-ai)
 
 ---
 
