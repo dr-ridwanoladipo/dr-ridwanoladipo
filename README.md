@@ -14,7 +14,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-MEDNEXAI.COM-1e3c72?style=for-the-badge)](https://mednexai.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/drridwanoladipoai)
-[![Email](https://img.shields.io/badge/EMAIL-COLLABORATE-d14836?style=for-the-badge&logo=gmail)](mailto:dr.ridwan.oladipo@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-d14836?style=for-the-badge&logo=gmail)](mailto:dr.ridwan.oladipo@gmail.com)
 
 </div>
 
@@ -29,6 +29,15 @@ Each solution unifies **deep learning, RAG, and LLMs** with **SHAP/Grad-CAM expl
 ---
 
 ## 🚀 Flagship Projects
+
+
+### 🌐 Deployment Options
+- **Live Demos:** Instant access via HuggingFace (UI + API)  
+- **Production (On-Demand):** Fully deployed on AWS ECS Fargate — available by request  
+> ⚡ **AWS Production:** CI/CD-enabled with <10 minutes cold-start (cost-optimized)
+
+---
+
 
 ---
 
@@ -45,7 +54,7 @@ Each solution unifies **deep learning, RAG, and LLMs** with **SHAP/Grad-CAM expl
 
 ### 🫀 **Clinical-Grade ECG Diagnosis AI**
 **Problem:** Delayed ECG interpretation increases MI mortality; limited cardiologist availability creates critical bottlenecks in emergency workflows  
-**Performance:** **96.2% MI sensitivity** · **99.9% specificity** · **0.999 AUC** · **Grad-CAM + SHAP**  
+**Performance:** **96.2% MI sensitivity** · **99.9% specificity** · **0.9986 AUC** · **Grad-CAM + SHAP**  
 **Deployment:** ResNet-1D + TensorFlow → FastAPI → AWS Fargate with zero-downtime rollback  
 
 [![🎬 UI Demo](https://img.shields.io/badge/🎬_UI_Demo-Live-blue?style=flat-square)](https://huggingface.co/spaces/dr-ridwanoladipo/ecg-ai)
@@ -149,7 +158,7 @@ graph LR
 
 ---
 
-## 💼 Clinical Impact Summary
+## 📈 Clinical Impact Summary
 
 | Project | Clinical Value | Business ROI | Enterprise Readiness |
 |---------|----------------|--------------|---------------------|
@@ -159,3 +168,74 @@ graph LR
 | **Drug Interaction AI** | Automates 15–20 min pharmacist reviews · Real-time polypharmacy risk synthesis · Catches brand-name mismatches (89.8% RxNorm success) | **8,000+ hours saved annually** · **$50K+ per ADE prevented** (litigation + LOS) | **Epic/Cerner CPOE pluggable** · <200ms Tier-1 lookup · FDA SaMD-aligned safety logic |
 
 ___
+
+### 🔬 Modeling & Explainability Suite
+
+- **Modeling:** XGBoost (tabular cardiology), ResNet-1D (ECG waveforms), nnU-Net 2025 (MRI), RAG + GPT-5 (pharmacology)  
+- **Explainability:** SHAP (tabular), Grad-CAM (ECG), 3D segmentation overlays (MRI), tiered evidence reasoning (RAG)  
+- **Outcome:** Clinically transparent, auditable AI aligned with FDA SaMD expectations — never black-box models
+
+---
+
+## 🛡️ Safety, Compliance & Validation
+
+- **Regulatory alignment:** Built under **FDA SaMD principles** with stratified splits and robustness checks (noise, intensity shifts, demographic subgroups)  
+- **Clinical safeguards:** All deployments include medical disclaimers — AI assists clinicians, never replaces judgment  
+- **Operational safety:** Tiered confidence logic (Drug AI), clinical plausibility checks (Cardio), high-sensitivity prioritization (ECG/Brain)
+
+---
+
+## 🛠️ Tech Stack
+
+**Deep Learning & ML**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat&logo=xgboost&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**LLMs & Retrieval**  
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT--5-412991?style=flat&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
+
+**MLOps & Deployment**  
+![AWS](https://img.shields.io/badge/AWS_Fargate-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![SageMaker](https://img.shields.io/badge/AWS_SageMaker-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+**Frontend & Explainability**  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-00599C?style=flat)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+
+**Clinical Data & Standards**  
+![DICOM](https://img.shields.io/badge/DICOM-005571?style=flat)
+![RxNorm](https://img.shields.io/badge/RxNorm-4A148C?style=flat)
+![DrugBank](https://img.shields.io/badge/DrugBank-2E7D32?style=flat)
+
+---
+
+## 🎓 Professional Training
+
+**Stanford University** — AI in Healthcare Specialization (5 courses)  
+**University of Oxford** — Generative and Agentic AI  
+**Harvard University** — CS50x: Introduction to Computer Science  
+**Harvard University** — Machine Learning and AI with Python  
+**Duke University** — MLOps: Machine Learning Operations Specialization (4 courses)  
+**Johns Hopkins University** — Generative AI in Public Health
+
+---
+
+## 🤝 Collaboration & Contact
+
+[![🌐 portfolio](https://img.shields.io/badge/🌐_portfolio-mednexai.com-1e3c72?style=flat-square)](https://mednexai.com)
+[![linkedin](https://img.shields.io/badge/linkedin-connect-0077b5?style=flat-square&logo=linkedin)](https://linkedin.com/in/drridwanoladipoai)
+[![email](https://img.shields.io/badge/email-contact-d14836?style=flat-square&logo=gmail)](mailto:dr.ridwan.oladipo@gmail.com)
+
+**Open to:** Medical Data Scientist · Clinical AI Architect · Applied ML/MLOps Engineer  
+**Collaboration:** Hospitals, AI startups, research labs, telemedicine companies, and engineering teams building real-world medical AI products
+
+---
