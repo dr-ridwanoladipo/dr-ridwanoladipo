@@ -166,7 +166,7 @@ graph LR
 
 ___
 
-### 🔬 Modeling & Explainability Suite
+## 🔬 Modeling & Explainability Suite
 
 - **Modeling:** XGBoost (tabular cardiology), ResNet-1D (ECG waveforms), nnU-Net 2025 (MRI), RAG + GPT-5 (pharmacology)  
 - **Explainability:** SHAP (tabular), Grad-CAM (ECG), 3D segmentation overlays (MRI), tiered evidence reasoning (RAG)  
