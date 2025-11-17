@@ -38,9 +38,6 @@ Each solution unifies **deep learning, RAG, and LLMs** with **SHAP/Grad-CAM expl
 
 ---
 
-
----
-
 ### 🩺 **Heart Disease Risk AI**
 **Problem:** Heart disease causes 17.9 million deaths worldwide annually; manual ASCVD scoring delays emergency triage  
 **Performance:** **97% sensitivity** · **0.91 AUC** · **<200ms inference** · **SHAP explainability**  
